@@ -1,2 +1,2 @@
-# typescript
-Tutorial
+# Typescript
+>- Typescript hap bilgiler
