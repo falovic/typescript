@@ -34,6 +34,3 @@ taxi_2.currentLocation = { x: 2, y: 5 };
 let bus_1: Bus = new Bus();
 bus_1.travelTo({ x: 3, y: 4 });
 bus_1.currentLocation = { x: 5, y: 8 };
-
-
-
